@@ -1,0 +1,8 @@
+/* shadow effect */
+.c-ind-shadow{
+    box-shadow: 0px 0px 999px 2px darkcyan;
+}
+/* login page */
+.c-h1{
+    font-size: 48px;
+}
